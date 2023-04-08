@@ -2,6 +2,9 @@
 
 Hello, there is my project in VBA.
 
+VIDEO with my presentation of project:
+
+
 Full documentation for project in PL:
 https://docs.google.com/document/d/10A5qqv3mMhmEDFdlLcRa3X_VUhvvIT_Up4cNNPM4F1E/edit?usp=sharing
 
