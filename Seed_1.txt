@@ -1,0 +1,1 @@
+INSERT INTO `absencetypes` (`id_absenceType`, `shortcut`, `description`, `descriptionPlus`) VALUES (NULL, 'Zsw', 'Zwolnienie z powodu siły wyższej', 'Dostępne 2 dni w roku. Niezależne od innych nieobecności.'), (NULL, 'Uob', 'Urlop opiekuńczy bezpłatny', 'Dostępne 5 dni w roku. Niezależne od innych nieobecności.')
